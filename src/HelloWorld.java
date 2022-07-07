@@ -1,9 +1,18 @@
-
-public class HelloWorld {
-
+public class Chapter05 {
+	
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("Hello Java!");
-	}
+	
+		String str = "上山　京";
+	
+		System.out.println(str);
+	
+		str = "ありがとう";
+	
+		System.out.println(str);
 
+	
+		final int luckyNumber = 7;
+	
+		System.out.println(luckyNumber);
+	}
 }
